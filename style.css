@@ -1,0 +1,17 @@
+
+body{
+    background-color: lightblue;
+
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: wrap;
+    padding: 30px 10%;
+}
+
+.image img{
+    width: 250px;
+    border-radius: 10px;
+    flex-direction: row;
+}
